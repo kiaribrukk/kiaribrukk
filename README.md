@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Tu Nombre</h1>
+<h1 align="center">👋 Hola, soy Kiari</h1>
 
 <p align="center">
   <b>Desarrollador Full Stack | IA Avanzada | Creativo Tecnológico</b>
