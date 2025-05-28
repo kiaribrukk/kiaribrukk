@@ -13,6 +13,13 @@ El diseño de interfaces web limpias, accesibles y modernas
 El desarrollo de software robusto y escalable
 
 Automatización y eficiencia mediante scripts e IA
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🔍 Lenguajes más usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
 
 ⚙️ Habilidades técnicas destacadas:
 Lenguajes: HTML, CSS, JavaScript, Java, C#, Python
