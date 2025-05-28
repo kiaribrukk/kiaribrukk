@@ -4,8 +4,11 @@
   <b>Desarrollador Full Stack | IA Avanzada | Creativo Tecnológico</b>
 </p>
 
+<div align ="center"  width =800>
+  
+![image](https://github.com/user-attachments/assets/9b75981c-d8e6-4325-ac37-f944696c529d)</img>  
+</div>
 
-export default developer;
 
 ## 📊 Estadísticas de GitHub
 
